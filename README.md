@@ -11,6 +11,7 @@ output that can be presented in a continuous integration tool like
 
 [![Build Status](https://dev.azure.com/mustafademirnet/calculator/_apis/build/status/mustafa-dmr.calculator?branchName=master)](https://dev.azure.com/mustafademirnet/calculator/_build/latest?definitionId=1&branchName=master)
 
+
 To build, simply:
 
 1. Runs `npm install` to install dependencies.
